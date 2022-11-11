@@ -21,11 +21,11 @@
 ## :technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- :telescope: Currently I'm Looking for fulltime job, and available to work for *Backend*, *Frontend* or **Fullstack instead**.
+- 👨‍💼: I'm currently working as **Software Developer Backend** in [Cosmart](https://cosmart.id/).
 
 - :seedling: Happy to Learn New tech such as Golang, NextJS, NestJS.
 
-- :zap: In my free time, I solve problems on Hakerrank and read tech articles.
+- :zap: In my free time, I often read about tech in educative or learn code in codecademy and udemy.
 
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">
