@@ -19,7 +19,7 @@
 
 
 ## :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
 - 👨‍💼: I'm currently working as **Software Developer Backend** in [Cosmart](https://cosmart.id/).
 
