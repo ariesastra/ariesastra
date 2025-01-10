@@ -21,7 +21,9 @@
 ## :technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 👨‍💼: I'm currently working as **Software Developer Backend** in [Cosmart](https://cosmart.id/).
+- 👨‍💼: I'm currently working as **Software Developer Backend**.
+
+- Preveusly working as **Fullstack Web Developer**.
 
 - :seedling: Happy to Learn New tech such as Golang, NextJS, NestJS.
 
