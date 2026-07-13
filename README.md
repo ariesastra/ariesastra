@@ -30,11 +30,6 @@
 | [**ads_dashboard**](https://github.com/ariesastra/new_dashboard) | Multi-channel ad performance dashboard | TypeScript, NestJS |
 
 ---
-
-## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ariesastra&date_format=M%20j%5B%2C%20Y%5D&border=DD2727)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariesastra&show_icons=true&theme=dracula)
----
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arieastra)
