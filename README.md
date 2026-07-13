@@ -24,11 +24,10 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**WIYF**](https://github.com/ariesastra/wi-yf) | AI cooking companion — scan fridge ingredients → personalised recipes via Claude Vision + GPT-5.1 | React Native, FastAPI, PostgreSQL |
 | [**load-generator**](https://github.com/ariesastra/load-generator) | Distributed load testing tool for microservices | Python |
 | [**user-management**](https://github.com/ariesastra/user-management) | User auth & management microservice with JWT | Go, PostgreSQL |
 | [**money-tracker-go**](https://github.com/ariesastra/money-tracker-go) | Personal finance tracker with spending analytics | Go |
-| [**new_dashboard**](https://github.com/ariesastra/new_dashboard) | Multi-channel ad performance dashboard | TypeScript, NestJS |
+| [**ads_dashboard**](https://github.com/ariesastra/new_dashboard) | Multi-channel ad performance dashboard | TypeScript, NestJS |
 
 ---
 
