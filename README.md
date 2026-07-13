@@ -1,60 +1,38 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/arieastra/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://twitter.com/ariesastra">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=ariesastra&style=flat-square&color=blue" alt=""/>
-</div>
+### 👋 Hi, I'm Arie
 
-<div align="center" style="margin-top: 50px">
-  <h1>
-    Hi there 👋
-  </h1>
-</div>
+**Backend Engineer** building high-throughput distributed systems in **Go** and **TypeScript**.
 
+🔭 Currently architecting a Go microservices platform processing **200K+ smart meter readings** at 99.9% reliability.
 
-## :technologist: About Me :
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+🌱 Exploring AI-powered backend systems — MCP agents, computer vision pipelines, and event-driven architectures.
 
-- 👨‍💼: I'm currently working as **Software Developer Backend**.
+👯 Open to **backend engineering opportunities in Australia** (visa sponsorship required).
 
-- Preveusly working as **Fullstack Web Developer**.
+---
 
-- :seedling: Happy to Learn New tech such as Golang, NextJS, NestJS.
+### 🛠 Tech Stack
 
-- :zap: In my free time, I often read about tech in educative or learn code in codecademy and udemy.
+**Languages:** Go · TypeScript · JavaScript · Python
+**Backend:** NestJS · Express · GraphQL · gRPC · REST API
+**Data:** PostgreSQL · MongoDB · Redis · Apache Kafka · MQTT · RabbitMQ
+**Infrastructure:** AWS (ECS/RDS/ECR) · Docker · Terraform · GitHub Actions
+**Observability:** OpenTelemetry · Jaeger · Grafana · Prometheus
 
-## :hammer_and_wrench: Languages and Tools :
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original-wordmark.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/materialui/materialui-plain.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/heroku/heroku-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/express/express-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-plain-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sequelize/sequelize-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jest/jest-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/npm/npm-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
+---
 
-## :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ariesastra&date_format=M%20j%5B%2C%20Y%5D&border=DD2727)](https://git.io/streak-stats)
+### 📌 Featured Projects
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ariesastra&show_icons=true&theme=dracula)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**WIYF**](https://github.com/ariesastra/wi-yf) | AI cooking companion — scan fridge ingredients → personalised recipes via Claude Vision + GPT-5.1 | React Native, FastAPI, PostgreSQL |
+| [**load-generator**](https://github.com/ariesastra/load-generator) | Distributed load testing tool for microservices | Python |
+| [**user-management**](https://github.com/ariesastra/user-management) | User auth & management microservice with JWT | Go, PostgreSQL |
+| [**money-tracker-go**](https://github.com/ariesastra/money-tracker-go) | Personal finance tracker with spending analytics | Go |
+| [**new_dashboard**](https://github.com/ariesastra/new_dashboard) | Multi-channel ad performance dashboard | TypeScript, NestJS |
 
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arieastra)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ariesastra)
